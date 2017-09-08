@@ -11,7 +11,7 @@ Table of Contents
 =================
 +  [Description](#description)
 +  [Go Docs](#link-to-go-docs)
-+  [Who Uses Go](#who-uses-go!)
++  [Who Uses Go](#who-uses-go)
 
 ## Description 
 The Go programming language is an open source project to make programmers more productive.
@@ -21,7 +21,7 @@ Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make
 ## Link to GO DOCS
 [GO Docs](https://golang.org/doc/)
 
-## Who Uses GO!
+## Who Uses GO
 -  [x] Google™
 -  [x] YouTube™
 -  [x] Apple™
