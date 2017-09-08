@@ -39,3 +39,8 @@ Next, make the directory 'src/hello' inside your workspace, and in that director
             $ cd $HOME/go/src/hello
             $ go build
 ```
+  *  The command above will build an executable named hello in the directory alongside your source code. Execute it to see the greeting:
+```
+            $ ./hello
+            hello, world
+```
