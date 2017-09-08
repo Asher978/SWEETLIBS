@@ -53,6 +53,6 @@ Next, make the directory 'src/hello' inside your workspace, and in that director
 ```
 </details>
 
-## Algorithams With Go
-[Algorithams](https://github.com/Asher978/SWEETLIBS/blob/master/algorithams.go)
+## Algorithms With Go
+[Algorithms](https://github.com/Asher978/SWEETLIBS/blob/master/algorithms.go)
 
