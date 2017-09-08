@@ -28,9 +28,14 @@ The package should put the /usr/local/go/bin directory in your PATH environment 
 Next, make the directory 'src/hello' inside your workspace, and in that directory create a file named hello.go that looks like:
 
 ```
-package main
-import "fmt"
-func main() {
-    fmt.Printf("hello, world\n")
+            package main
+            import "fmt"
+            func main() {
+                fmt.Printf("hello, world\n")
 }
+```
+  *  Then build it with the go tool:
+```
+            $ cd $HOME/go/src/hello
+            $ go build
 ```
