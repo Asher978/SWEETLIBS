@@ -7,6 +7,10 @@ September, 2107
 - Ryan Edwards
 - Asher Shaheen
 
+Table of Contents
+=================
++  [Description](#description)
+
 ## Description 
 The Go programming language is an open source project to make programmers more productive.
 
