@@ -22,10 +22,14 @@ Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make
 
 ## Get Started with Go!
 ![](https://github.com/Asher978/SWEETLIBS/blob/master/assets/instructionA.png)
-  *  Download the package file, open it, and follow the prompts to install the Go tools. The package installs the Go distribution to /usr/local/go.
-The package should put the /usr/local/go/bin directory in your PATH environment variable. You may need to restart any open Terminal sessions for the change to take effect.
 
 ![](https://github.com/Asher978/SWEETLIBS/blob/master/assets/instructionB.png)
+
+<details>
+<summary>Detailed Instructions</summary>
+
+  *  Download the package file, open it, and follow the prompts to install the Go tools. The package installs the Go distribution to /usr/local/go.
+The package should put the /usr/local/go/bin directory in your PATH environment variable. You may need to restart any open Terminal sessions for the change to take effect.
 
   *  Check that Go is installed correctly by setting up a workspace and building a simple program, as follows. Create your workspace directory, $HOME/go (in the same directory as your 'wdi' folder). (If you'd like to use a different directory, you will need to set the GOPATH environment variable.)
 Next, make the directory 'src/hello' inside your workspace, and in that directory create a file named hello.go that looks like:
@@ -47,6 +51,8 @@ Next, make the directory 'src/hello' inside your workspace, and in that director
             $ ./hello
             hello, world
 ```
+</details>
+
 ## Algorithams With Go
 [Algorithams](https://github.com/Asher978/SWEETLIBS/blob/master/algorithams.go)
 
