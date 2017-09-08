@@ -53,6 +53,10 @@ Next, make the directory 'src/hello' inside your workspace, and in that director
 ```
 </details>
 
+#### Other Helpful Tutorials 
+[GOLANG WEB APP TUTORIAL 1](https://www.youtube.com/watch?v=iIztjjNTSjs)
+[GOLANG WEB APP TUTORIAL 2](https://www.youtube.com/watch?v=Vlie-srOU8c)
+
 ## Algorithms With Go
 [Algorithms](https://github.com/Asher978/SWEETLIBS/blob/master/algorithms.go)
 
