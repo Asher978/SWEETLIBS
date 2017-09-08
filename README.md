@@ -44,3 +44,6 @@ Next, make the directory 'src/hello' inside your workspace, and in that director
             $ ./hello
             hello, world
 ```
+## Algorithams With Go
+[Algorithams](https://github.com/Asher978/SWEETLIBS/blob/master/algorithams.go)
+
