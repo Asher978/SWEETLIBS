@@ -21,6 +21,7 @@ Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make
 -  [x] Apple™
 
 ## Get Started with Go!
+![](https://github.com/Asher978/SWEETLIBS/blob/master/assets/instructionA.png)
   *  Download the package file, open it, and follow the prompts to install the Go tools. The package installs the Go distribution to /usr/local/go.
 The package should put the /usr/local/go/bin directory in your PATH environment variable. You may need to restart any open Terminal sessions for the change to take effect.
 
