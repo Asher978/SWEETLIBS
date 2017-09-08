@@ -10,6 +10,8 @@ September, 2107
 Table of Contents
 =================
 +  [Description](#description)
++  [Go Docs](#link-to-go-docs)
++  [Who Uses Go](#who-uses-go!)
 
 ## Description 
 The Go programming language is an open source project to make programmers more productive.
