@@ -26,3 +26,11 @@ The package should put the /usr/local/go/bin directory in your PATH environment 
 
   *  Check that Go is installed correctly by setting up a workspace and building a simple program, as follows. Create your workspace directory, $HOME/go (in the same directory as your 'wdi' folder). (If you'd like to use a different directory, you will need to set the GOPATH environment variable.)
 Next, make the directory 'src/hello' inside your workspace, and in that directory create a file named hello.go that looks like:
+
+```
+package main
+import "fmt"
+func main() {
+    fmt.Printf("hello, world\n")
+}
+```
