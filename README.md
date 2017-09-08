@@ -12,6 +12,8 @@ Table of Contents
 +  [Description](#description)
 +  [Go Docs](#link-to-go-docs)
 +  [Who Uses Go](#who-uses-go)
++  [Getting Started With Go](#getting-started-with-go)
++  [Other Resources](#other-helpful-resources)
 
 ## Description 
 The Go programming language is an open source project to make programmers more productive.
@@ -26,7 +28,7 @@ Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make
 -  [x] YouTube™
 -  [x] Apple™
 
-## Get Started with Go!
+## Getting Started with Go
 ![](https://github.com/Asher978/SWEETLIBS/blob/master/assets/instructionA.png)
 
 ![](https://github.com/Asher978/SWEETLIBS/blob/master/assets/instructionB.png)
@@ -59,7 +61,7 @@ Next, make the directory 'src/hello' inside your workspace, and in that director
 ```
 </details>
 
-#### Other Helpful Tutorials 
+#### Other Helpful Resources 
   *  [GOLANG WEB APP TUTORIAL 1](https://www.youtube.com/watch?v=iIztjjNTSjs)
   *  [GOLANG WEB APP TUTORIAL 2](https://www.youtube.com/watch?v=Vlie-srOU8c)
 
